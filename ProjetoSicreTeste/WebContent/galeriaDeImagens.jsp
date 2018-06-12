@@ -10,7 +10,7 @@
 <meta name="keyword"
 	content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
 
-<title>DASHGUM - Bootstrap Admin Template</title>
+<title>Galeria de reclamações</title>
 
 <!-- Bootstrap core CSS -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -119,7 +119,7 @@
 		<section id="main-content">
 			<section class="wrapper site-min-height">
 				<h3>
-					<i class="fa fa-angle-right"></i> Gallery
+					<i class="fa fa-angle-right"></i> Galeria de imagens - Reclamações
 				</h3>
 				<hr>
 				<div class="row mt">
@@ -128,8 +128,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port04.jpg"><img
-											class="img-responsive" src="assets/images/port04.jpg"
+										<a class="fancybox" href="assets/images/problema1.jpg"><img
+											class="img-responsive" src="assets/images/problema1.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -144,8 +144,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port05.jpg"><img
-											class="img-responsive" src="assets/images/port05.jpg"
+										<a class="fancybox" href="assets/images/problema2.jpg"><img
+											class="img-responsive" src="assets/images/problema2.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -160,8 +160,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port06.jpg"><img
-											class="img-responsive" src="assets/images/port06.jpg"
+										<a class="fancybox" href="assets/images/problema3.jpg"><img
+											class="img-responsive" src="assets/images/problema3.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -179,8 +179,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port01.jpg"><img
-											class="img-responsive" src="assets/images/port01.jpg"
+										<a class="fancybox" href="assets/images/problema4jpg"><img
+											class="img-responsive" src="assets/images/problema4.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -195,8 +195,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port02.jpg"><img
-											class="img-responsive" src="assets/images/port02.jpg"
+										<a class="fancybox" href="assets/images/problema5.jpg"><img
+											class="img-responsive" src="assets/images/problema5.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -211,8 +211,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port03.jpg"><img
-											class="img-responsive" src="assets/images/port03.jpg"
+										<a class="fancybox" href="assets/images/problema6.jpg"><img
+											class="img-responsive" src="assets/images/problema6.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -230,8 +230,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port04.jpg"><img
-											class="img-responsive" src="assets/images/port04.jpg"
+										<a class="fancybox" href="assets/images/problema7.jpg"><img
+											class="img-responsive" src="assets/images/problema7.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -246,8 +246,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port05.jpg"><img
-											class="img-responsive" src="assets/images/port05.jpg"
+										<a class="fancybox" href="assets/images/problema8.jpg"><img
+											class="img-responsive" src="assets/images/problema8.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>
@@ -262,8 +262,8 @@
 							<div class="project">
 								<div class="photo-wrapper">
 									<div class="photo">
-										<a class="fancybox" href="assets/images/port06.jpg"><img
-											class="img-responsive" src="assets/images/port06.jpg"
+										<a class="fancybox" href="assets/images/problema9.jpg"><img
+											class="img-responsive" src="assets/images/problema9.jpg"
 											alt=""></a>
 									</div>
 									<div class="overlay"></div>

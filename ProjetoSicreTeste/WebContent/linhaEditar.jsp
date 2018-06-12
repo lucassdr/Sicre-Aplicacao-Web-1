@@ -224,7 +224,7 @@
 
 															<c:forEach var="tip" items="${listaTipoLinha}">
 																<c:set var="selecao" value="" />
-																<c:if test="${tip.equals(linha.tipoDeLinha)}">
+																<c:if test="${tip.nome.equals(linha.tipoDeLinha.nome)}">
 																	<c:set var="selecao" value="selected='selected'" />
 																</c:if>
 																<option ${selecao} value="${tip.idTipoDeLinha}">${tip.nome}</option>
