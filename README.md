@@ -7,4 +7,4 @@
 ## Tecnlogias utilizadas neste projeto:
 ```Java```
 ```JPA```
-```JSF``` 
+```JSP``` 
